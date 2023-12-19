@@ -1,3 +1,5 @@
+# MCQ_Generator
+
 1. first login to the AWS: https://aws.amazon.com/console/
 
 2. search about the EC2
